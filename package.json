@@ -1,6 +1,6 @@
 {
-  "name": "react-component-playground",
-  "version": "0.4.1",
+  "name": "react-component-playground-es2015",
+  "version": "0.4.3",
   "description": "Isolated loader for React components",
   "main": "build/bundle.js",
   "repository": {

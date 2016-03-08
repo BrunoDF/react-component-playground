@@ -38,6 +38,7 @@
     "mocha": "^2.2.4",
     "react": "^0.14.2",
     "react-addons-test-utils": "^0.14.2",
+    "react-dom": "^0.14.2",
     "sinon": "^1.14.1",
     "sinon-chai": "^2.7.0",
     "style-loader": "^0.12.3",

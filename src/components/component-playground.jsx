@@ -38,7 +38,8 @@ module.exports = React.createClass({
     },
 
     getSelectedComponentClass: function(props) {
-      return props.components[props.component].class;
+      return props.components[props.component].class.default ||
+             props.components[props.component].class
     },
 
     getSelectedFixtureContents: function(props) {
